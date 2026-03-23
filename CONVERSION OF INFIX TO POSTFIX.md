@@ -34,7 +34,7 @@ To write a Python program to convert a given Infix expression to Postfix express
 ```
 
 ### OUTPUT
-
+<img width="1186" height="215" alt="image" src="https://github.com/user-attachments/assets/5315c720-87e8-4bb7-b765-ab52661abb22" />
 
 ### RESULT
-
+Therefore, the output is the example to write a Python program to convert a given Infix expression to Postfix expression by following the precedence and associative rules. The input expression contains only Division, Subtraction, and Bitwise AND operators. A dictionary is used to set the priority for operators, and a set is used to hold the operators used in the given expression.
